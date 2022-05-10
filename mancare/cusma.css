@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+body {
+	align-items: center;
+}
+img{
+	margin-right: 100px;
+}
+#lista{
+	font-family: 'Amatic SC', cursive;
+	font-weight: 900;
+	font-size: 30px;
+}
